@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="67af3da0-4296-4ad2-b791-5befcfc6e982" name="Changes" comment="Module" />
+    <list default="true" id="67af3da0-4296-4ad2-b791-5befcfc6e982" name="Changes" comment="Module">
+      <change afterPath="$PROJECT_DIR$/demofile1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -11,6 +14,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="JavaScript File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -23,6 +27,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -34,12 +39,12 @@
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RunManager">
-    <configuration name="demo_querystring.js.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/demo_querystring.js.js" working-dir="$PROJECT_DIR$">
+    <configuration name="demo_readfile.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/demo_readfile.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Node.js.demo_querystring.js.js" />
+        <item itemvalue="Node.js.demo_readfile.js.js" />
       </list>
     </recent_temporary>
   </component>
@@ -59,7 +64,7 @@
       <workItem from="1649173875666" duration="72000" />
       <workItem from="1649173989404" duration="507000" />
       <workItem from="1649174742629" duration="822000" />
-      <workItem from="1650033810031" duration="1697000" />
+      <workItem from="1650033810031" duration="1980000" />
     </task>
     <task id="LOCAL-00001" summary="Module">
       <created>1649174989544</created>
@@ -96,7 +101,14 @@
       <option name="project" value="LOCAL" />
       <updated>1650035512848</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Module">
+      <created>1650035662133</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1650035662133</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
