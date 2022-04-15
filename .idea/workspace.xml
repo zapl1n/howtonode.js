@@ -39,12 +39,12 @@
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RunManager">
-    <configuration name="demo_fileserver.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/demo_fileserver.js" working-dir="$PROJECT_DIR$">
+    <configuration name="demo_uppercase.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/demo_uppercase.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Node.js.demo_fileserver.js" />
+        <item itemvalue="Node.js.demo_uppercase.js" />
       </list>
     </recent_temporary>
   </component>
