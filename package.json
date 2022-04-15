@@ -4,7 +4,7 @@
   },
   "name": "howtonode",
   "version": "1.0.0",
-  "main": "demo_readfile.js",
+  "main": "demo_fileserver.js",
   "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
